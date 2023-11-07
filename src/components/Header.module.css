@@ -1,0 +1,84 @@
+.buttonChild,
+.topBarChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.topBarChild {
+  background-color: var(--white);
+  border-bottom: 1.5px solid var(--color-whitesmoke-200);
+  box-sizing: border-box;
+  width: 100%;
+  height: 70px;
+}
+.buttonChild {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-tomato-100);
+}
+.contactUs {
+  position: absolute;
+  top: calc(50% - 11px);
+  left: calc(50% - 39.5px);
+}
+.button {
+  position: absolute;
+  top: 10px;
+  left: 85%;
+  width: 107px;
+  height: 50px;
+}
+.home {
+  position: relative;
+  line-height: 125%;
+}
+.tabs,
+.topBar {
+  position: absolute;
+}
+.tabs {
+  top: 25px;
+  left: calc(85% - 170px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+  text-align: left;
+  color: var(--color-darkslategray-300);
+}
+.topBar {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 70px;
+}
+.whatsappImage20231022At0 {
+  position: absolute;
+  top: 10px;
+  left: 36px;
+  width: 240.4px;
+  height: 50px;
+  object-fit: cover;
+}
+.topBarParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 70px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--white);
+  font-family: var(--font-poppins);
+}
+.topBar a {
+  text-decoration: none;
+  color: black;
+}
+.topBar a:hover {
+  color: black;
+}

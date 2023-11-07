@@ -1,0 +1,123 @@
+.transformingHomeBuying {
+  /* position: absolute; */
+  margin-top: 66px;
+  margin-bottom:20px;
+  text-align:left;
+  left: 0;
+  font-size: var(--font-size-5xl);
+  line-height: 175%;
+  font-weight: 600;
+  color: var(--color-darkslategray-300);
+}
+.diveIntoThe {
+  margin: 0;
+}
+.videoFirst {
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--color-darkslategray-300);
+}
+.diveIntoTheContainer {
+  /* position: absolute;
+  top: 124px; */
+  left: 0;
+  line-height: 175%;
+  text-align:left;
+}
+.whyUs {
+  position: relative;
+  line-height: 175%;
+  font-weight: 600;
+}
+.whyUsWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-10xl);
+  background-color: var(--color-ghostwhite-200);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-6xs) var(--padding-base);
+  color: var(--color-darkslategray-200);
+}
+.videoCentricApproach {
+  position: absolute;
+  top: 14px;
+  left: 72px;
+  line-height: 175%;
+}
+.clapperboard1Icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.clapperboard1Wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-10xl);
+  background-color: var(--color-darkslategray-100);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base);
+}
+.bookVisitsOnYourConvenientParent,
+.videoCentricApproachParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 269px;
+  height: 56px;
+}
+.bookVisitsOnYourConvenientParent {
+  top: 72px;
+  width: 432px;
+}
+.pickAndDrop {
+  position: absolute;
+  top: 16px;
+  left: 72px;
+  line-height: 175%;
+}
+.groupParent,
+.pickAndDropForPremiumUserParent {
+  position: absolute;
+  top: 144px;
+  left: 0;
+  width: 337px;
+  height: 56px;
+}
+.groupParent {
+  top: 280px;
+  width: 432px;
+  height: 200px;
+  text-align: left;
+}
+.transformingHomeBuyingWithParent {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  width: 55%;
+  height: auot;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray-400);
+  font-family: var(--font-poppins);
+}
+
+@media (max-width: 880px) {
+ .groupParent {
+  top: 350px;
+  width: 300px;
+  height: 200px;
+  text-align: left;
+}
+}

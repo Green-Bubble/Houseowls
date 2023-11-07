@@ -1,0 +1,351 @@
+.groupIcon,
+.objectsIcon {
+  position: absolute;
+  height: 1%;
+  width: 9.24%;
+  top: 73.69%;
+  right: 81.47%;
+  bottom: 25.07%;
+  left: 8.29%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.objectsIcon {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: -0.42%;
+  bottom: 0;
+  left: 0.42%;
+}
+.madeWith {
+  position: relative;
+  line-height: 175%;
+  font-weight: 500;
+}
+.madeWithInIndiaWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 59px;
+  background-color: var(--white);
+  border: 1px solid var(--color-ghostwhite-200);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 31px;
+}
+.building1Inner {
+  position: absolute;
+  top: 192px;
+  left: 40%;
+  width: 290px;
+  height: 66px;
+}
+.building1,
+.building1Wrapper {
+  position: absolute;
+  width: 100%;
+  height: 535px;
+}
+.building1 {
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+.building1Wrapper {
+  top: 160px;
+  left: -6px;
+  text-align: center;
+}
+.worldsFirstVideoFirst {
+  margin: 0;
+}
+.worldsFirstVideoFirstContainer {
+  position: absolute;
+  top: 154px;
+  left: 32%;
+  font-size: 52px;
+  line-height: 175%;
+  color: var(--color-darkslategray-300);
+  text-align: center;
+}
+.homePageChild {
+  position: absolute;
+  top: 691px;
+  left: 0;
+  background-color: var(--color-tomato-100);
+  width: 100%;
+  height: 176px;
+}
+.image3Icon {
+  top: 0;
+  left: 0;
+  width: 202.8px;
+  object-fit: cover;
+}
+.image3Icon,
+.image3Parent,
+.image4Icon {
+  position: absolute;
+  height: 60px;
+}
+.image4Icon {
+  top: 0;
+  left: 218.8px;
+  width: 202.8px;
+  object-fit: cover;
+}
+.image3Parent {
+  top: 58px;
+  left: 0;
+  width: 421.6px;
+}
+.downloadNow {
+  position: absolute;
+  top: 0;
+  left: 118px;
+  line-height: 175%;
+  font-weight: 600;
+}
+.groupParent {
+  position: absolute;
+  top: 719px;
+  left: 35%;
+  width: 421.6px;
+  height: 118px;
+  text-align: center;
+  color: var(--white);
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 62%;
+  border-radius: 50%;
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    rgba(247, 82, 75, 0.32),
+    rgba(247, 82, 75, 0)
+  );
+  filter: blur(50px);
+  width: 495px;
+  height: 495px;
+}
+.arrow04Icon {
+  position: absolute;
+  top: 170px;
+  left: 70%;
+  width: 59.1px;
+  height: 65.3px;
+  overflow: hidden;
+}
+.searchByLocationsContainer {
+  position: absolute;
+  top: 207px;
+  left: 65%;
+  line-height: 175%;
+  font-weight: 500;
+}
+.ellipseParent {
+  position: absolute;
+  top: 987px;
+  left: 9%;
+  width: 81%;
+  height: 495px;
+  font-size: var(--footer-size);
+  color: var(--color-black);
+}
+.homePageItem {
+  position: absolute;
+  top: 1560px;
+  left: 5%;
+  width: 595px;
+  height: 595px;
+}
+.keepYourSavedContainer {
+  position: absolute;
+  top: 1723px;
+  left: 33%;
+  font-size: var(--footer-size);
+  line-height: 175%;
+  font-weight: 500;
+  color: var(--color-black);
+}
+.iphone15ProBlackTitaniumM {
+  position: absolute;
+  top: 1642px;
+  left: 17%;
+  width: 241px;
+  height: 430px;
+}
+.timeSaving {
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--color-darkslategray-300);
+}
+.timeSavingSavesUsersTime1 {
+  margin-bottom: 0;
+}
+.timeSavingSavesUsersTime {
+  margin: 0;
+  display: block;
+  padding-left: var(--padding-2xl);
+}
+.toRepeatedlySearch {
+  margin-block-start: 0;
+  margin-block-end: 4px;
+}
+.shortlistYourFavourite,
+.timeSavingSavesUsersContainer {
+  position: absolute;
+  top: 58px;
+  left: 0;
+  line-height: 175%;
+}
+.shortlistYourFavourite {
+  top: 0;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  color: var(--color-black);
+}
+.timeSavingSavesUsersTimeParent {
+  position: absolute;
+  top: 1686px;
+  left: 50%;
+  width: 526px;
+  height: 278px;
+  font-size: inherit;
+}
+.ellipseDiv,
+.homePageInner {
+  position: absolute;
+  border-radius: 50%;
+}
+.homePageInner {
+  top: 1602px;
+  left: 14.65%;
+  background: linear-gradient(rgba(80, 94, 122, 0.4), rgba(80, 94, 122, 0.4)),
+    #fff;
+  width: 80px;
+  height: 80px;
+}
+.ellipseDiv {
+  top: 1607px;
+  left: 15%;
+  background-color: rgba(80, 94, 122, 0.4);
+  width: 70px;
+  height: 70px;
+}
+.hugeIconinterfacesolidbook {
+  position: absolute;
+  top: 1629px;
+  left: 16.2%;
+  width: 25.1px;
+  height: 25.1px;
+  overflow: hidden;
+}
+.searchProperties {
+  position: relative;
+  letter-spacing: -0.3px;
+  line-height: 120%;
+  font-weight: 600;
+}
+.searchPropertiesWrapper {
+  position: absolute;
+  top: 2004px;
+  left: 57%;
+  border-radius: var(--br-19xl);
+  background-color: var(--color-tomato-100);
+  width: 350px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-mini) var(--padding-54xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-base);
+  color: var(--white);
+}
+.homePage {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 3329px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkslategray-400);
+  font-family: var(--font-poppins);
+}
+
+@media (max-width: 1200px) {
+  .arrow04Icon {
+    left: 67%;
+    width: 59.1px;
+    height: 65.3px;
+    overflow: hidden;
+  }
+  .searchByLocationsContainer {
+    top: 207px;
+    left: 59%;
+    line-height: 175%;
+    font-weight: 500;
+  }
+  .worldsFirstVideoFirstContainer {
+    font-size: 38px; 
+    top: 190px;
+    left: 34%;
+  }
+  .building1Inner{
+    left:39%;
+  }
+  .groupParent {
+    top:650px;
+    left: 30%;
+  }
+  .homePageChild {
+    top: 630px;
+    height: 176px;
+  }
+}
+@media (max-width: 700px) {
+  .arrow04Icon {
+    left: 65%;
+    width: 59.1px;
+    height: 65.3px;
+    overflow: hidden;
+  }
+  .searchByLocationsContainer {
+    top: 207px;
+    left: 53%;
+    line-height: 175%;
+    font-weight: 500;
+  }
+  .ellipseParent {
+    position: absolute;
+    top: 800px;
+    left: 3%;
+    width: 81%;
+   
+  }
+  .worldsFirstVideoFirstContainer {
+    font-size: 28px; 
+    top: 240px;
+    left: 32%;
+  }
+  .building1Inner{
+    left:34%;
+  }
+  .groupParent {
+    top:590px;
+    left: 22%;
+  }
+  .homePageChild {
+    top: 570px;
+    height: 176px;
+  }
+}

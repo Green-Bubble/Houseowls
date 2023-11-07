@@ -1,0 +1,123 @@
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 82%;
+  border-radius: 50%;
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    rgba(247, 82, 75, 0.32),
+    rgba(247, 82, 75, 0)
+  );
+  filter: blur(50px);
+  width: 495px;
+  height: 495px;
+}
+.referEarn {
+  margin: 0;
+}
+.referEarnContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 175%;
+  font-weight: 600;
+}
+.i {
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--white);
+}
+.span {
+  font-size: var(--font-size-3xl);
+}
+.unlockRewardsWithContainer {
+  position: absolute;
+  top: 100px;
+  left: 0;
+  line-height: 175%;
+  white-space: pre-wrap;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray-400);
+}
+.ellipseParent,
+.referEarnWithHouseowlsYParent {
+  position: absolute;
+  top: 69px;
+  left: 0;
+  width: 50%;
+  height: 294px;
+}
+.ellipseParent {
+  top: 30px;
+  width: 1163px;
+  height: 495px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkslategray-300);
+}
+.iphone15ProBlackTitaniumM {
+  position: absolute;
+  top: 81px;
+  left: 71%;
+  width: 210px;
+  height: 453px;
+}
+.shadowIcon {
+  opacity: 0.7;
+}
+.iphone15ProBlackTitaniumM2,
+.mainIcon,
+.shadowIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 210px;
+  height: 430px;
+  object-fit: cover;
+}
+.iphone15ProBlackTitaniumM2 {
+  top: 7px;
+  left: 8px;
+  width: 193px;
+  height: 415px;
+  mix-blend-mode: normal;
+}
+.iphone15ProBlackTitaniumM1 {
+  position: absolute;
+  top: 0;
+  left: 82%;
+  width: 210px;
+  height: 430px;
+}
+.inviteNewFriends {
+  position: absolute;
+  top: 429px;
+  left: 98%;
+  line-height: 175%;
+  font-weight: 500;
+}
+.arrow04Icon {
+  position: absolute;
+  top: 392px;
+  left: 91%;
+  width: 72px;
+  height: 75.4px;
+  overflow: hidden;
+}
+.trackInviteUpdates {
+  position: absolute;
+  top: 68px;
+  left: 62%;
+  line-height: 175%;
+  font-weight: 500;
+}
+.groupParent {
+  position: absolute;
+  top: 2225px;
+  left: 9%;
+  width: 82%;
+  height: 534px;
+  text-align: left;
+  font-size: var(--footer-size);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

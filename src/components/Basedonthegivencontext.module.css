@@ -1,0 +1,41 @@
+.groupChild {
+  position: absolute;
+  top: 217px;
+  left: 460px;
+  width: 24px;
+  height: 24px;
+}
+.submit {
+  position: relative;
+  letter-spacing: -0.3px;
+  line-height: 120%;
+  font-weight: 600;
+}
+.submitWrapper {
+  position: absolute;
+  top: 482px;
+  left: 75px;
+  border-radius: var(--br-19xl);
+  background-color: var(--color-tomato-100);
+  width: 350px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-mini) var(--padding-54xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-base);
+  color: var(--white);
+}
+.inputFieldParent {
+  position: absolute;
+  top: 528px;
+  left: 53%;
+  width: 48%;
+  height: 531px;
+  text-align: left;
+  font-size: var(--footer-size);
+  color: var(--secondary-color);
+  font-family: var(--font-poppins);
+}

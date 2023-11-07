@@ -1,0 +1,125 @@
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--white);
+  border: 1px solid var(--color-whitesmoke-100);
+  box-sizing: border-box;
+  width: 183px;
+  height: 122px;
+}
+.createNewList,
+.selectList {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  font-size: var(--font-size-3xs);
+  letter-spacing: -0.3px;
+  line-height: 175%;
+  font-weight: 600;
+  text-align: left;
+}
+.createNewList {
+  top: 11px;
+  left: 99px;
+  text-decoration: underline;
+  line-height: 120%;
+  color: var(--color-tomato-100);
+  text-align: right;
+}
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-lavenderblush);
+  width: 40px;
+  height: 40px;
+}
+.hugeIconfilesAndFoldersol {
+  position: absolute;
+  top: 13.1px;
+  left: 13.1px;
+  width: 13.7px;
+  height: 13.7px;
+  overflow: hidden;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 40px;
+}
+.sector59 {
+  position: absolute;
+  top: 48px;
+  left: 1px;
+  letter-spacing: -0.3px;
+  line-height: 175%;
+  font-weight: 500;
+}
+.groupParent,
+.groupWrapper,
+.rectangleContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 62px;
+}
+.groupWrapper,
+.rectangleContainer {
+  top: 36px;
+  left: 10px;
+}
+.rectangleContainer {
+  top: 0;
+  left: 6px;
+  height: 40px;
+}
+.independent {
+  margin: 0;
+}
+.independentHouse {
+  position: absolute;
+  top: 48px;
+  left: 0;
+  letter-spacing: -0.3px;
+  line-height: 175%;
+  font-weight: 500;
+}
+.groupContainer {
+  position: absolute;
+  top: 36px;
+  left: 66px;
+  width: 51px;
+  height: 76px;
+}
+.sector47 {
+  position: absolute;
+  top: 48px;
+  left: 2px;
+  letter-spacing: -0.3px;
+  line-height: 175%;
+  font-weight: 500;
+}
+.groupFrame,
+.rectangleParent {
+  position: absolute;
+  top: 36px;
+  left: 133px;
+  width: 40px;
+  height: 62px;
+}
+.rectangleParent {
+  top: 1778px;
+  left: 30%;
+  width: 183px;
+  height: 122px;
+  text-align: center;
+  font-size: var(--font-size-5xs);
+  color: var(--color-darkslategray-300);
+  font-family: var(--font-poppins);
+}

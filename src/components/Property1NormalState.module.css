@@ -1,0 +1,68 @@
+.b,
+.textLabel {
+  position: relative;
+  line-height: 170%;
+}
+.b {
+  color: var(--alert-error);
+}
+.textLabelParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-8xs);
+}
+.inputFieldHint {
+  position: relative;
+  line-height: 170%;
+  opacity: 0.6;
+}
+.inputFieldHintWrapper {
+  border: 1px solid var(--grey);
+  box-sizing: border-box;
+  width: 500px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-sm) var(--padding-mini);
+}
+.inputFieldhugeIconinterfac {
+  position: absolute;
+  height: 88.89%;
+  width: 11.59%;
+  top: 3.7%;
+  right: 88.41%;
+  bottom: 7.41%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.thisIsThe {
+  position: absolute;
+  top: 0;
+  left: 15.46%;
+  line-height: 170%;
+  opacity: 0.8;
+}
+.inputFieldhugeIconinterfacParent {
+  position: relative;
+  width: 207px;
+  height: 27px;
+  display: none;
+  color: var(--alert-error);
+}
+.property1normalState {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--secondary-color);
+  font-family: var(--font-helvetica);
+}

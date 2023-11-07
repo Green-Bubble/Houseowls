@@ -1,0 +1,104 @@
+.shadowIcon {
+  opacity: 0.7;
+}
+.iphone15ProBlackTitaniumM1,
+.mainIcon,
+.shadowIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 210px;
+  height: 430px;
+  object-fit: cover;
+}
+.iphone15ProBlackTitaniumM1 {
+  top: 6.9px;
+  left: 8.4px;
+  width: 192px;
+  height: 415px;
+  mix-blend-mode: normal;
+}
+.share {
+  position: absolute;
+  top: 12px;
+  left: 56.1px;
+  line-height: 175%;
+  font-weight: 500;
+}
+.commentParent,
+.shareIcon,
+.shareParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 48.1px;
+  height: 48.1px;
+}
+.commentParent,
+.shareParent {
+  top: 292px;
+  left: 173px;
+  width: 98.1px;
+}
+.commentParent {
+  top: 223px;
+  width: 128.1px;
+}
+.save {
+  position: absolute;
+  top: 12px;
+  left: 56.1px;
+  line-height: 175%;
+}
+.saveParent {
+  position: absolute;
+  top: 154px;
+  left: 173px;
+  width: 91.1px;
+  height: 48.1px;
+}
+.materialSymbolslocationOnIcon {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.gurgaon {
+  position: relative;
+  letter-spacing: -0.3px;
+  line-height: 120%;
+  font-weight: 600;
+  display: inline-block;
+  width: 150px;
+  flex-shrink: 0;
+}
+.materialSymbolslocationOnParent {
+  position: absolute;
+  top: 71px;
+  left: -29px;
+  border-radius: var(--br-3xs);
+  background-color: var(--white);
+  backdrop-filter: blur(18px);
+  border: 1px solid var(--color-ghostwhite-200);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  gap: var(--gap-8xs);
+  font-size: var(--font-size-xs);
+  color: var(--color-darkslategray-100);
+}
+.iphone15ProBlackTitaniumM {
+  position: absolute;
+  top: 54px;
+  left: 75%;
+  width: 210px;
+  height: 430px;
+  text-align: left;
+  font-size: var(--footer-size);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

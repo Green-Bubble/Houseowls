@@ -1,0 +1,60 @@
+.whatsappImage20231022At0 {
+  position: absolute;
+  top: 10px;
+  left: 36px;
+  width: 240.4px;
+  height: 50px;
+  object-fit: cover;
+}
+.contactUsChild,
+.contactUsItem {
+  position: absolute;
+  top: 68px;
+  left: 0;
+  width: 100%;
+  height: 24%;
+}
+.contactUsChild {
+  object-fit: cover;
+}
+.contactUsItem {
+  background: linear-gradient(
+    180deg,
+    rgba(51, 51, 51, 0),
+    rgba(51, 51, 51, 0.6)
+  );
+}
+.contactUs1 {
+  position: absolute;
+  top: 211px;
+  left: 43%;
+  letter-spacing: -0.3px;
+  line-height: 175%;
+}
+.contactUsInner {
+  position: absolute;
+  top: 528px;
+  left: 8%;
+  width: 38%;
+  height: 263px;
+  object-fit: cover;
+}
+.phmapPinFillIcon {
+  position: absolute;
+  top: 600px;
+  left: 31%;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.contactUs {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 1549px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 42px;
+  color: var(--white);
+  font-family: var(--font-poppins);
+}
